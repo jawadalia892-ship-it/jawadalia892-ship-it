@@ -12,7 +12,7 @@
 
 💻 I love exploring new technologies, building software projects, and solving real-world problems through programming and Artificial Intelligence.
 
-📧 Email Me 👉 ✉️ **YOUR_EMAIL@gmail.com** For Collaboration, Projects or Anything Else.
+📧 Email Me 👉 ✉️ **jawadaliram@gmail.com** For Collaboration, Projects or Anything Else.
 
 ## 🚀 What I'm Currently Doing
 
