@@ -34,15 +34,6 @@
 
 **Tools:** Git, GitHub, VS Code
 
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
 ## 🔗 I'm a Tech Enthusiast & Project Builder 🚀
 
 I enjoy building practical projects, learning modern technologies, and sharing my development journey. I'm always excited to connect with developers, collaborate on innovative ideas, and contribute to the tech community.
