@@ -1,4 +1,60 @@
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Jawad%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+# 💫 Hi 👋, I'm Jawad Ali
+
+**A passionate Information Technology Student || AI & Machine Learning Enthusiast || Python Developer || Web Developer from Pakistan 🇵🇰**
+
+🎓 I'm currently pursuing **BS Information Technology (6th Semester)** at The Shaikh Ayaz University, Shikarpur.
+
+💻 I love exploring new technologies, building software projects, and solving real-world problems through programming and Artificial Intelligence.
+
+📧 Email Me 👉 ✉️ **YOUR_EMAIL@gmail.com** For Collaboration, Projects or Anything Else.
+
+## 🚀 What I'm Currently Doing
+
+- 🔭 Working on AI and Machine Learning Projects.
+- 🌱 Learning Artificial Intelligence, Deep Learning and NLP.
+- 💡 Exploring Python, Web Development and Software Engineering.
+- 👯 Looking to collaborate on AI/ML and Open Source Projects.
+- 🎯 My goal is to become a skilled AI/ML Engineer.
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Python, C, C#, Java, SQL
+
+**AI & Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV
+
+**Web Development:** HTML, CSS, JavaScript
+
+**Database:** MySQL
+
+**Tools:** Git, GitHub, VS Code
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+## 🔗 I'm a Tech Enthusiast & Project Builder 🚀
+
+I enjoy building practical projects, learning modern technologies, and sharing my development journey. I'm always excited to connect with developers, collaborate on innovative ideas, and contribute to the tech community.
+
+**Let's Learn, Build & Grow Together!** 💻🔥
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61596169589760&mibextid=rS40aB7S9Ucbxw6v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jawad-ali-a546b7369?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@programming_it?si=gkq6MO22JLZjyPXw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jawadaliram@gmail.com) 
 
